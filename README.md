@@ -1,3 +1,3 @@
 # NN-Lib
 
-Autograd implementation inspired by to Kaparthy, CNN implementation.
+Autograd implementation inspired by Kaparthy, CNN implementation.
